@@ -1,5 +1,4 @@
-Terminologies
----
+## Terminologies
 
 - Blockchain: A network of nodes or machines linked in a peer-to-peer fashion that facilitates transactions in a verifiable and permanent way. A blockchain network is also often called an open distributed ledger.
 
