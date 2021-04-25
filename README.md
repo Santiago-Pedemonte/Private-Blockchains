@@ -42,6 +42,13 @@ The commands for starting each of the nodes are also included in the 'Keys, etc.
 ## How to use
 **Note: Geth should already be installed prior to booting up and using the network. Please refer to the [install guide](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/References/Installation%20Guides.md#installing-go-ethereum-tools)**
 
+### Starting the nodes, ports, and connections:
+
+For particular commands and/or a more comprehensive, step-by-step guide regarding startup of nodes on Blockchains with a particular consensus, please refer to the individual `README.md` inside each network's folder:
+* [Proof of Work-How to use](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/Proof-of-Work%20Blockchain/README.md)
+* [Proof of Authority-How to use](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/Proof-of-Authority%20Blockchain/README.md)
+
+### Adding the Custom Network to MyCrypto:
 
 
 ## Resources
