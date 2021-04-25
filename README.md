@@ -3,10 +3,14 @@ A repository of private blockchains with different consensus algorithms develope
 
 ## Index
 
+- [Features](Features)
+- [How to use](How to use)
+- [Additional References](Additional References)
+
 ## Features
 
 
 ## How to use
 
 
-## References
+## Additional References
