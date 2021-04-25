@@ -1,5 +1,5 @@
 # Blockchain
-A repository of private blockchains with different consensus algorithms and developed on the Ethereum Blockchain.
+A repository of private blockchains with different consensus algorithms and developed with the [Go Ethereum](https://geth.ethereum.org/) implementation.
 
 ## Index
 
@@ -19,7 +19,9 @@ So far, two different networks have been added with different consensus protocol
 
 Each Blockchain contains two node files. These are full nodes that have already been initialized on the network- for more information on node creation and initialization, please refer to the [node guide](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/References/Node%20Creation%20and%20Initialization.md).
 
-The first and second nodes have been conveniently-named 'firstNode' and 'secondNode', respectively. Each of these nodes had a personal account created at the moment they were generated. The key pair for accessing the nodes' wallets (in the appropriate network) can be found in the relevant 'Keys, etc....txt' file. Likewise, when using [MyCrypto](https://mycrypto.com/), one can also use the keystore file located in each of the nodes' folders.
+The first and second nodes have been conveniently-named 'firstNode' and 'secondNode', respectively. Each of these nodes had a personal account created at the same time they were generated. The key pair for accessing the nodes' wallets (in the appropriate network) can be found in the relevant 'Keys, etc....txt' file. Likewise, when using [MyCrypto](https://mycrypto.com/), one can also use the keystore file located in each of the nodes' folders.
+
+
 For more information on the MyCrypto app, please refer to the [installation guide](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/References/Installation%20Guides.md#installing-mycrypto-desktop-app)
 
 The commands for starting each of the nodes are also included in the 'Keys, etc....txt' file.
