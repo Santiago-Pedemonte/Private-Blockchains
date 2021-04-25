@@ -6,7 +6,6 @@ A blockchain is a type of database that stores an ever-growing list of records, 
 
 The lists of records (blocks), are stored in a distributed manner, meaning that exact copies of all records are stored across all machines (called nodes) that access the network. Combined with hashing, this makes the blockchain extremely trustworthy, as the records are very difficult to alter. Not only does the hashing form a layer of protection, but even if one record is changed, because there are so many duplicates, its easy to prove that the information was altered.
 
-<img src= Images/BlockChain_info.png width=800>
 
 </details>
 <details><summary>Why do we need blockchain?</summary><br>
@@ -128,7 +127,6 @@ For more on hashing, check out [this](https://www.investopedia.com/terms/h/hash.
 
 **Nonce** - A nonce is a number used once. It can be added to cryptographic methods to increase security by introducing an element of randomness.
 
-The uses of these terms is explained in more detail in the next question: *What is the difference between Symmetric and Asymmetric Cryptography?*.
 
 </details>
 
@@ -226,69 +224,3 @@ A block explorer is a tool that allows you to search transactions on a particula
 * Gas
 
 </details>
-
-<details><summary>Where can I get a quick summary of Blockchain Terminology?</summary>
-
-For a quick run down of all the terms we cover in Unit 18, check out [this terminology guide](Blockchain-Terminology-Guide.md).
-</details>
-
-## Helpful Links
-
-<details><summary>Blockchain</summary>
-
-* https://www.investopedia.com/terms/b/blockchain.asp
-</details>
-
-<details><summary>Nodes</summary>
-
-* https://medium.com/coinmonks/blockchain-what-is-a-node-or-masternode-and-what-does-it-do-4d9a4200938f
-</details>
-<details><summary>Blockchain Wallets</summary>
-
-* https://www.investopedia.com/terms/b/blockchain-wallet.asp
-
-* https://blog.unocoin.com/what-happens-if-you-forget-your-bitcoin-wallet-keys-bbf563ce281a
-</details>
-<details><summary>Digital Signature</summary>
-
-* https://www.instantssl.com/digital-signature
-
-* https://medium.com/@xragrawal/digital-signature-from-blockchain-context-cedcd563eee5
-</details>
-<details><summary>Hash</summary>
-
-* https://www.investopedia.com/terms/h/hash.asp
-</details>
-<details><summary>Blockchain Mining</summary>
-
-* https://www.bitcoinmining.com/
-</details>
-<details><summary>Consensus Algorithms</summary>
-
-* https://www.binance.vision/blockchain/what-is-a-blockchain-consensus-algorithm
-</details>
-<details><summary>Proof of Authority</summary>
-
-* https://www.binance.vision/blockchain/proof-of-authority-explained
-</details>
-<details><summary>Proof of Work</summary>
-
-* https://en.bitcoin.it/wiki/Proof_of_work
-</details>
-<details><summary>Proof of Stake</summary>
-
-* https://www.investopedia.com/terms/p/proof-stake-pos.asp
-</details>
-
-## Additional Course Resources
-
-
-* [Blockchain Installation Guide](blockchain-install-guide.md)
-
-* [Blockchain Terminology Guide](Blockchain-Terminology-Guide.md)
-
-* [Running a POA Blockchain](POA-Blockchain-guide.md)
-
----
-
-© 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
