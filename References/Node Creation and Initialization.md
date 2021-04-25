@@ -12,7 +12,7 @@ Create the first node's data directory using the `geth` command and a couple of 
 
 You should see a success message similar to this one:
 
-![geth new account](Images/geth-account-new.png)
+![geth new account](Images/nodeSuccessSS.png)
 
 * Make sure to save the public address for the node.
 
@@ -42,7 +42,7 @@ Now, it's time to initialize the nodes in the network that has been created. For
 
 You should see this success message:
 
-![geth init](Images/geth-init.png)
+![geth init](Images/initNodeSS.png)
 
 * You only need to intialize the nodes once so this process does not need to be repeated for the blockchain examples available in the repository.
 
