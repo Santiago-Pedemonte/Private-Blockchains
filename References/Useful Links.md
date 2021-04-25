@@ -1,5 +1,52 @@
-## Helpful Links
+# Useful Links
 
+## Index
+
+- [Tools](https://github.com/Santiago-Pedemonte/Private-Blockchains/edit/main/References/Useful%20Links.md#Tools)
+- [Educational](https://github.com/Santiago-Pedemonte/Private-Blockchains/edit/main/References/Useful%20Links.md#Educational)
+- [Research](https://github.com/Santiago-Pedemonte/Private-Blockchains/edit/main/References/Useful%20Links.md#Research)
+
+## Tools
+
+<details><summary>Block Explorer</summary>
+
+* [Etherscan](https://etherscan.io/)
+</details>
+
+<details><summary>Prices and Market Information</summary>
+
+* [CoinGecko](https://coingecko.com/)
+* [CryptoMarket-Scout](https://github.com/RawnakMahjabib/CryptoMarket-Scout)
+</details>
+
+<details><summary>Network Information and Stats</summary>
+
+* [ETH Gas Station](https://ethgasstation.info/)
+* [Ethstats](https://ethstats.net/)
+</details>
+
+<details><summary>Decentralized Applications</summary>
+
+* [State of DApps](https://www.stateofthedapps.com/)
+</details>
+
+<details><summary>New Ideas</summary>
+
+* [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/)
+</details>
+
+<details><summary>Scam Tracker</summary>
+
+* [Crypto Scam Database](https://cryptoscamdb.org/)
+</details>
+
+<details><summary>Blockchain</summary>
+
+* https://www.investopedia.com/terms/b/blockchain.asp
+</details>
+
+
+## Educational
 <details><summary>Blockchain</summary>
 
 * https://www.investopedia.com/terms/b/blockchain.asp
@@ -44,4 +91,11 @@
 <details><summary>Proof of Stake</summary>
 
 * https://www.investopedia.com/terms/p/proof-stake-pos.asp
+</details>
+
+## Research
+
+<details><summary>Ethereum Whitepaper</summary>
+  
+  * https://ethereum.org/en/whitepaper/
 </details>
