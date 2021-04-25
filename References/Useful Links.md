@@ -2,9 +2,9 @@
 
 ## Index
 
-- [Tools](https://github.com/Santiago-Pedemonte/Private-Blockchains/edit/main/References/Useful-Links.md#tools)
-- [Educational](https://github.com/Santiago-Pedemonte/Private-Blockchains/edit/main/References/Useful-Links.md#educational)
-- [Research](https://github.com/Santiago-Pedemonte/Private-Blockchains/edit/main/References/Useful-Links.md#research)
+- [Tools](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/References/Useful%20Links.md#tools)
+- [Educational](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/References/Useful-Links.md#educational)
+- [Research](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/References/Useful-Links.md#research)
 
 ## Tools
 
