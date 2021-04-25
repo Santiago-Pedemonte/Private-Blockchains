@@ -14,18 +14,18 @@ To install MyCrypto Desktop App:
 
 2. Depending on your operating system, you will be redirected to the corresponding application installer. If you are not correctly redirected, choose the appropriate installer for your operating system.
 
-3. Once you download the installer, open the file, and follow the installation wizard. You will start using this application on Day 1.
+3. Once you download the installer, open the file, and follow the installation wizard.
 
 
 ### Allowing Permission to Open Apps from Unidentified Developers
 
-When an app is not registered with Apple, it can be automatically blocked by the Mac OS operating system when attempting to open the "unidentified" application. Therefore, in order to allow the use of the MyCrypto app, you may need to allow it as an exception to your Mac OS security preferences. To do so perform the following.
+When an app is not registered with Apple, it can be automatically blocked by the Mac OS operating system when attempting to open the "unidentified" application. Therefore, in order to allow the use of the MyCrypto app, you may need to allow it as an exception to your Mac OS security preferences. To do so perform the following:
 
 1. Open the MyCrypto app, it should produce a warning error saying that you cannot open the application due to security reasons. Therefore, we'll need to make a security exception for it.
 
 2. Look to the top-left of the screen and click on the Apple Logo and navigate to System Preferences > Security & Privacy.
 
-3. Click in the General tab and allow your MyCrypto application security access to be opened in the "Allow Apps Downloaded From" section. Your screen should look similar to the image below.
+3. Click in the General tab and allow your MyCrypto application security access to be opened in the "Allow Apps Downloaded From" 	section.
 
 ## Installing Go Ethereum Tools
 
@@ -52,5 +52,3 @@ To install the Go Ethereum Tools:
 3. After downloading the tools archive, open your "Downloads" folder, and you will find a file named `geth-alltools-darwin-amd64-1.9.7-a718daa6.tar.gz` in OS X, and a file called `geth-alltools-windows-amd64-1.9.7-a718daa6.zip` in Windows. Note that the last numbers in the filename could vary depending on the last built available.
 
 4. Decompress the archive in the location of your preference, the guides included in the repository assume you're working from inside the Geth folder from the terminal.
-
- ![Installing Geth - 3](Images/geth-3.png)
