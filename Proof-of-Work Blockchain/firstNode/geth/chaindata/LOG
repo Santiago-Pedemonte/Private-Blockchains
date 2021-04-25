@@ -1,0 +1,26 @@
+=============== Apr 24, 2021 (EDT) ===============
+23:23:18.726227 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+23:23:18.733226 db@open opening
+23:23:18.735200 version@stat F·[] S·0B[] Sc·[]
+23:23:18.737192 db@janitor F·2 G·0
+23:23:18.738188 db@open done T·4.962ms
+23:23:18.759083 db@close closing
+23:23:18.759612 db@close done T·528.9µs
+=============== Apr 24, 2021 (EDT) ===============
+23:25:27.560517 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+23:25:27.560517 version@stat F·[] S·0B[] Sc·[]
+23:25:27.560517 db@open opening
+23:25:27.560517 journal@recovery F·1
+23:25:27.567505 journal@recovery recovering @1
+23:25:27.571205 memdb@flush created L0@2 N·622 S·50KiB "\x02d\xfc..\x19Ba,v430":"\xfe\x88\xcf..H\xef\xcc,v363"
+23:25:27.577190 version@stat F·[1] S·50KiB[50KiB] Sc·[0.25]
+23:25:27.584449 db@janitor F·3 G·0
+23:25:27.584449 db@open done T·23.9316ms
+23:25:27.673046 table@compaction range L-1 "a":"b"
+23:25:27.673046 table@compaction L0·1 -> L1·0 S·50KiB Q·628
+23:25:27.695681 table@build created L1@5 N·622 S·50KiB "\x02d\xfc..\x19Ba,v430":"\xfe\x88\xcf..H\xef\xcc,v363"
+23:25:27.695681 version@stat F·[0 1] S·50KiB[0B 50KiB] Sc·[0.00 0.00]
+23:25:27.697744 table@compaction committed F~ S~ Ke·0 D·0 T·24.6973ms
+23:25:27.700329 table@compaction range L-1 "o":"p"
+23:35:43.910822 db@close closing
+23:35:43.910833 db@close done T·516.6µs
