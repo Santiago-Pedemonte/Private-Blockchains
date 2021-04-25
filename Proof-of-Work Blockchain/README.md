@@ -1,4 +1,6 @@
-## How to use PoW Blockchain
+# How to use PoW Blockchain
+
+## Starting the nodes, ports, and connections:
 
 Open a terminal window (Git Bash in Windows) navigate to your `Geth` folder and follow the next steps.
 
