@@ -15,6 +15,12 @@ Each network has had a genesis block generated and is fully functioning (transac
 
 ![Network Files](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/Screenshots/networkFilesSS.png)
 
+The networkname.json file will look something like this:
+
+![Network info](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/Screenshots/pownetConfigSS.png)
+
+Below this 'network summary', you'll find the prefunded and precompiled accounts' public keys. The public keys for the nodes will be all the way at the bottom of this list.
+
 So far, two different networks have been added with different consensus protocols (for more information on consensus protocols please refer to the [CP notes](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/References/Notes%20on%20Different%20Consensus%20Algorithms.md)).
 
 ### Nodes
