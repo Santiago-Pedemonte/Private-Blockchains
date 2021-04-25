@@ -11,9 +11,9 @@ A repository of private blockchains with different consensus algorithms and deve
 
 ### Network
 
-Each network has had a genesis block generated and is fully functioning (transactions have been made successfully during testing). The relevant network Id, network name, and other specifications can be found in the appropriate 'Keys, etc....txt' file or on the networkname.json file (substituting networkname for the actual name of the network.
+Each network has had a genesis block generated and is fully functioning (transactions have been made successfully during testing). The relevant network Id, network name, and other specifications can be found in the appropriate 'Keys, etc....txt' file or on the networkname.json file (substituting networkname for the actual name of the network).
 
-So far, two different networks have been added with different consensus protocols (for more information on consensus protocols please refer to the [notes](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/References/Notes%20on%20Different%20Consensus%20Algorithms.md) on the different consensus algorithms.
+So far, two different networks have been added with different consensus protocols (for more information on consensus protocols please refer to the [CP notes](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/References/Notes%20on%20Different%20Consensus%20Algorithms.md)).
 
 ### Nodes
 
@@ -31,10 +31,10 @@ The commands for starting each of the nodes are also included in the 'Keys, etc.
 
 ## Resources
 
--[Useful links](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/References/Useful%20Links.md)
--[Blockchain FAQs](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/References/Blockchain%20FAQ.md)
--[Terminology Cheatsheet](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/References/Blockchain%20Terminology%20Cheatsheet.md)
--[Installation Guides](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/References/Installation%20Guides.md)
--[Notes on Consensus Algorithms](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/References/Notes%20on%20Different%20Consensus%20Algorithms.md)
+-[Useful links](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/References/Useful%20Links.md)\
+-[Blockchain FAQs](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/References/Blockchain%20FAQ.md)\
+-[Terminology Cheatsheet](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/References/Blockchain%20Terminology%20Cheatsheet.md)\
+-[Installation Guides](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/References/Installation%20Guides.md)\
+-[Notes on Consensus Algorithms](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/References/Notes%20on%20Different%20Consensus%20Algorithms.md)\
 -Additional guides on node creation, genesis block creation, and transactions on the blockchain can also be found in the [References](https://github.com/Santiago-Pedemonte/Private-Blockchains/tree/main/References) section of the repo.
 
