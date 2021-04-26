@@ -1,6 +1,6 @@
 # How to use PoW Blockchain
 
-**Note:** Following this guide will create one full node with mining capabilities `firstNode`, and one full node that connect to it `secondNode`.
+**Note:** Following this guide will create one full node with mining capabilities `firstNode`, and one full node that connects to it `secondNode` through RPC.
 
 This is a fully working implementation of a Proof-of-work Blockchain. A transaction was successfully made through the network from one node to another:
 
