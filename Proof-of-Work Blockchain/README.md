@@ -14,7 +14,7 @@ Open a terminal window (Git Bash in Windows) navigate to your `Geth` folder and 
 * Launch the first node into mining mode with the following command if the nodes and blockchain files are in the same folder as Geth executable:
 
  ```bash
- ./geth --datadir firstNode --mine --minerthreads 1
+ ./geth --datadir firstNode --mine --miner.threads 1
  ```
  **Note:** Can change `firstNode` with the path to the node's folder if it *isn't* in the same folder as Geth.
 
