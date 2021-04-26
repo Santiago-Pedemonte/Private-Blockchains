@@ -2,7 +2,8 @@
 
 **Note:** Following this guide will create one full node with mining capabilities `firstNode`, and one full node that connect to it `secondNode`.
 
-This is a fully working implementation of a Proof-of-work Blockchain. A transaction was successfully made through the network from one node to another:\
+This is a fully working implementation of a Proof-of-work Blockchain. A transaction was successfully made through the network from one node to another:
+
 ![successTxPow](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/Screenshots/successfulTransactionPow.png)
 
 You can corroborate the public addresses of the nodes with the ones included in the `Keys, etc....txt` file.
@@ -23,7 +24,8 @@ Open a terminal window (Git Bash in Windows) navigate to your `Geth` folder and 
  * The `--minerthreads` flag tells `geth` how many CPU threads, or "workers" to use during mining. Since the difficulty is low, setting it to 1 is enough.
  
 You should see the node `Committing new mining work`:
-![node mining](Images/mining.png)
+
+![node mining](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/Screenshots/miningStarted.png)
 
 * This command is included in the `Keys, etc....txt` file under `firstNode`.
 
@@ -31,7 +33,7 @@ Now to launch the second node and configure it to let us talk to the chain via R
 
 * Scroll up in the terminal window where `firstNode` is running, and copy the entire `enode://` address (including the last `@address:port` segment) of the first node located in the `Started P2P Networking` line:
 
- ![enodeid](Images/enodeid.png)
+ ![enodeid](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/Screenshots/enodeTerminal.png)
 
 * This is the address that `secondNode` will use to find `firstNode`.
 
@@ -56,7 +58,7 @@ Now to launch the second node and configure it to let us talk to the chain via R
 
 * The output of the second node should show information about `Importing block segments` and synchronization:
 
- ![node sync](Images/node-sync.png)
+ ![node sync](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/Screenshots/secondNodeStart.png)
 
 * This command is included in the `Keys, etc....txt` file under `secondNode`.
 
