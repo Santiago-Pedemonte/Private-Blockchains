@@ -11,11 +11,14 @@ A repository of private blockchains with different consensus algorithms and deve
 - [How to use](https://github.com/Santiago-Pedemonte/Private-Blockchains#how-to-use)
 - [Resources](https://github.com/Santiago-Pedemonte/Private-Blockchains#resources)
 
-<details><summary> How a Blockchain Works <summary\>
-
-![blockchain](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/Screenshots/infoBlockchain.jpg)
-[Source: Bitpanda](https://www.bitpanda.com/academy/en/lessons/how-does-a-blockchain-work/)
-<\details>
+<details><summary> How a Blockchain Works </summary>
+  
+   <img class="fit-picture"
+     src="https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/Screenshots/infoBlockchain.jpg"
+     alt="What is a Blockchain">
+  
+   [Source: Bitpanda](https://www.bitpanda.com/academy/en/lessons/how-does-a-blockchain-work/)
+</details>
 
 ## Features
 
