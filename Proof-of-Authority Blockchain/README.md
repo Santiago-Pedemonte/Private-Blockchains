@@ -68,7 +68,7 @@ Now to launch the second node and configure it to let us talk to the chain via R
 
 The output of the second node should show information about `Importing block segments` and `Committing new mining work`:
 
- ![node sync](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/Screenshots/secondNodeStart.png)
+ ![node sync](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/Proof-of-Authority%20Blockchain/Screenshots/startSecondNode.png)
 
 * This command is included in the `Keys, etc....txt` file under `secondNode`.
 
