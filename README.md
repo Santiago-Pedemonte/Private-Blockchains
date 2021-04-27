@@ -39,6 +39,8 @@ The commands for starting each of the nodes are also included in the 'Keys, etc.
 ![firstEnodeSS](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/Screenshots/firstEnodeSS.png)
 ![secondEnodeSS](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/Screenshots/secondEnodeSS.png)
 
+Links to more detailed explanations of these in the [How to Use](https://github.com/Santiago-Pedemonte/Private-Blockchains#how-to-use) section below.
+
 ## How to use
 **Note: Geth should already be installed prior to booting up and using the network. Please refer to the [install guide](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/References/Installation%20Guides.md#installing-go-ethereum-tools)**
 
