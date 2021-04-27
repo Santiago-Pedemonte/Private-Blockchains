@@ -20,7 +20,7 @@ A repository of private blockchains with different consensus algorithms and deve
 
 ### Network
 
-Each network has had a genesis block generated and is fully functioning (transactions have been made successfully during testing). The relevant network Id, network name, and other specifications can be found in the appropriate 'Keys, etc....txt' file or on the `networkname.json` file (substituting networkname for the actual name of the network).
+Each network (blockchain) has had a genesis block generated and is fully functioning (transactions have been made successfully during testing). The relevant network Id, network name, and other specifications can be found in the appropriate 'Keys, etc....txt' file or on the `networkname.json` file (substituting networkname for the actual name of the network).
 
 ![Network Files](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/Screenshots/networkFilesSS.png)
 
