@@ -20,8 +20,7 @@ Open a terminal window (Git Bash in Windows) navigate to your `Geth` folder and 
  **Note:** Can change `firstNode` with the path to the node's folder if it *isn't* in the same folder as Geth.
 
  * The `--mine` flag tells the node to mine new blocks.
-
- * The `--minerthreads` flag tells `geth` how many CPU threads, or "workers" to use during mining. Since the difficulty is low, setting it to 1 is enough.
+ * The `--miner.threads` flag tells `geth` how many CPU threads, or "workers" to use during mining. Since the difficulty is low, setting it to 1 is enough.
  
 You should see the node `Committing new mining work`:
 
