@@ -13,6 +13,8 @@ You can corroborate the public addresses of the nodes with the ones included in 
 
 ![networkPoA](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/Screenshots/zbnetConfigSS.png)
 
+* In the `alloc` section, we can see the addresses of our two nodes. These acounts need to be prefunded since there are no mining rewards in a PoA Blockchain.
+
 ## Starting the nodes, ports, and connections:
 
 Open a terminal window (Git Bash in Windows) navigate to your `Geth` folder and follow the next steps.
