@@ -66,7 +66,7 @@ Now to launch the second node and configure it to let us talk to the chain via R
  * In Microsoft Windows, we need to add the flag `--ipcdisable` due to the way Windows spawns new IPC/Unix sockets doesn't allow for having multiple sockets running from `geth` at once. Since we are only using `RCP` we can safely disable the `IPC` sockets.
  * Same as `firstNode` in terms of unlocking the node to authorize it to mine.
 
-* The output of the second node should show information about `Importing block segments` and `Committing new mining work`:
+The output of the second node should show information about `Importing block segments` and `Committing new mining work`:
 
  ![node sync](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/Screenshots/secondNodeStart.png)
 
