@@ -4,16 +4,17 @@
 
 A repository of private blockchains with different consensus algorithms and developed with the [Go Ethereum](https://geth.ethereum.org/) implementation.
 
-How a Blockchain works in general terms
-
-![blockchain](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/Screenshots/infoBlockchain.jpg)
-[Source: Bitpanda](https://www.bitpanda.com/academy/en/lessons/how-does-a-blockchain-work/)
-
 ## Index
 
+- [How a Blockchain Works](https://github.com/Santiago-Pedemonte/Private-Blockchains#how-a-blockchain-works)
 - [Features](https://github.com/Santiago-Pedemonte/Private-Blockchains#features)
 - [How to use](https://github.com/Santiago-Pedemonte/Private-Blockchains#how-to-use)
 - [Resources](https://github.com/Santiago-Pedemonte/Private-Blockchains#resources)
+
+## How a Blockchain Works
+
+![blockchain](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/Screenshots/infoBlockchain.jpg)
+[Source: Bitpanda](https://www.bitpanda.com/academy/en/lessons/how-does-a-blockchain-work/)
 
 ## Features
 
