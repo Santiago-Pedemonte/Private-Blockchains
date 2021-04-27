@@ -8,6 +8,11 @@ This is a fully working implementation of a Proof-of-work Blockchain. A transact
 
 You can corroborate the public addresses of the nodes with the ones included in the `Keys, etc....txt` file.
 
+## Network:
+**Note:** The relevant information for this guide is also included in the `Keys, etc....txt` file.
+
+![networkPoW](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/Screenshots/pownetConfigSS.png)
+
 ## Starting the nodes, ports, and connections:
 
 Open a terminal window (Git Bash in Windows) navigate to your `Geth` folder and follow the next steps.
