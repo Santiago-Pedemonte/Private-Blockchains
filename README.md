@@ -1,11 +1,13 @@
-![introImage](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/Screenshots/blockchain-use-cases.jpg)
 
 # Blockchain
+![introImage](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/Screenshots/blockchain-use-cases.jpg)
+
 A repository of private blockchains with different consensus algorithms and developed with the [Go Ethereum](https://geth.ethereum.org/) implementation.
 
 How a Blockchain works in general terms
 
 ![blockchain](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/Screenshots/infoBlockchain.jpg)
+[Source: Bitpanda](https://www.bitpanda.com/academy/en/lessons/how-does-a-blockchain-work/)
 
 ## Index
 
