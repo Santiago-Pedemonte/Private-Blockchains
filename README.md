@@ -13,11 +13,11 @@ A repository of private blockchains with different consensus algorithms and deve
 
 ### Network
 
-Each network has had a genesis block generated and is fully functioning (transactions have been made successfully during testing). The relevant network Id, network name, and other specifications can be found in the appropriate 'Keys, etc....txt' file or on the networkname.json file (substituting networkname for the actual name of the network).
+Each network has had a genesis block generated and is fully functioning (transactions have been made successfully during testing). The relevant network Id, network name, and other specifications can be found in the appropriate 'Keys, etc....txt' file or on the `networkname.json` file (substituting networkname for the actual name of the network).
 
 ![Network Files](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/Screenshots/networkFilesSS.png)
 
-The networkname.json file will look something like this:
+The `networkname.json` file will look something like this:
 
 ![Network info](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/Screenshots/pownetConfigSS.png)
 
@@ -29,14 +29,14 @@ So far, two different networks have been added with different consensus protocol
 
 Each Blockchain contains two node files. These are full nodes that have already been initialized on the network- for more information on node creation and initialization, please refer to the [node guide](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/References/Node%20Creation%20and%20Initialization.md).
 
-The first and second nodes have been conveniently-named 'firstNode' and 'secondNode', respectively. Each of these nodes had a personal account created at the same time they were generated. The key pair for accessing the nodes' wallets (in the appropriate network) can be found in the relevant 'Keys, etc....txt' file. Likewise, when using [MyCrypto](https://mycrypto.com/), one can also use the keystore file located in each of the nodes' folders.
+The first and second nodes have been conveniently-named `firstNode` and `secondNode`, respectively. Each of these nodes had a personal account created at the same time they were generated. The key pair for accessing the nodes' wallets (in the appropriate network) can be found in the relevant `Keys, etc....txt` file. Likewise, when using [MyCrypto](https://mycrypto.com/), one can also use the keystore file located in each of the nodes' folders.
 
 ![Keys,etc...](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/Screenshots/keyEtcSS.png)
 ![Node Files](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/Screenshots/nodeFilesSS.png)
 
 For more information on the MyCrypto app, please refer to the [installation guide](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/References/Installation%20Guides.md#installing-mycrypto-desktop-app)
 
-The commands for starting each of the nodes are also included in the 'Keys, etc....txt' file. The only element that may change when hosting the blockchain on another local host is the enode- if so, simply copy and paste the first node's new enode:// address in the second node's start command.
+The commands for starting each of the nodes are also included in the `Keys, etc....txt` file. The only element that may change when hosting the blockchain on another local host is the enode- if so, simply copy and paste the first node's new enode:// address in the second node's start command.
 
 ![firstEnodeSS](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/Screenshots/firstEnodeSS.png)
 ![secondEnodeSS](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/Screenshots/secondEnodeSS.png)
@@ -51,6 +51,8 @@ Links to more detailed explanations of these in the [How to Use](https://github.
 For particular commands and/or a more comprehensive, step-by-step guide regarding startup of nodes on Blockchains with a particular consensus, please refer to the individual `README.md` inside each network's folder:
 * [Proof of Work-How to use](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/Proof-of-Work%20Blockchain/README.md)
 * [Proof of Authority-How to use](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/Proof-of-Authority%20Blockchain/README.md)
+
+The start commands for the nodes are included in the `Keys, etc....txt` file and should be run from inside the `/Geth` folder.
 
 ### Adding the Custom Network to MyCrypto:
 
