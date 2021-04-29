@@ -87,7 +87,7 @@ Now that you are connected to your blockchain, you will need to load a private k
 
 * If you are logged in to another wallet, you'll need to click `Change Wallet` on the top right, but make sure you are connected to your custom network.
 
-* When you log into a pre-funded wallet, you will see the balance that was pre-funded for this account in the genesis configuration; however, these millions of ETH tokens are just for testing purposes.
+* When you log into a pre-funded wallet, you will see the balance that was allocated to this account in the genesis configuration; however, these are just for testing purposes.
 
  ![prefunded account](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/References/Images/prefunded-account.png)
 
