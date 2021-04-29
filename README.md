@@ -67,6 +67,29 @@ The start commands for the nodes are included in the `Keys, etc....txt` file and
 
 ### Adding the Custom Network to MyCrypto:
 
+* Open up MyCrypto, then click `Change Network` at the bottom left:
+
+ ![change network](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/References/Images/change-network.png)
+
+* Click "Add Custom Node", then add the custom network information that you set in the genesis.
+
+* Make sure that you scroll down to choose `Custom` in the "Network" column to reveal more options like `Chain ID`:
+
+ ![custom network](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/References/Images/custom-network.png)
+
+* The chain ID must match what you came up with earlier.
+
+* The URL is pointing to the default RPC port on your local machine. Use `http://127.0.0.1:8545`.
+
+* Once you save and use the network, double-check that it is selected and is connected.
+
+Now that you are connected to your blockchain, you will need to load a private key that you created and funded on the network.
+
+* If you are logged in to another wallet, you'll need to click `Change Wallet` on the top right, but make sure you are connected to your custom network.
+
+* When you log into a pre-funded wallet, you will see the balance that was pre-funded for this account in the genesis configuration; however, these millions of ETH tokens are just for testing purposes.
+
+ ![prefunded account](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/References/Images/prefunded-account.png)
 
 ## Resources
 
