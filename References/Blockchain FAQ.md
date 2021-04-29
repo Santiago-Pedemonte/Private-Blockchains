@@ -6,6 +6,11 @@ A blockchain is a type of database that stores an ever-growing list of records, 
 
 The lists of records (blocks), are stored in a distributed manner, meaning that exact copies of all records are stored across all machines (called nodes) that access the network. Combined with hashing, this makes the blockchain extremely trustworthy, as the records are very difficult to alter. Not only does the hashing form a layer of protection, but even if one record is changed, because there are so many duplicates, its easy to prove that the information was altered.
 
+   <img class="fit-picture"
+     src="https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/Screenshots/infoBlockchain.jpg"
+     alt="What is a Blockchain">
+  
+   [Source: Bitpanda](https://www.bitpanda.com/academy/en/lessons/how-does-a-blockchain-work/)
 
 </details>
 <details><summary>Why do we need blockchain?</summary><br>
