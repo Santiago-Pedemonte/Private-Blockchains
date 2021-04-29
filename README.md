@@ -67,6 +67,8 @@ The start commands for the nodes are included in the `Keys, etc....txt` file and
 
 ### Adding the Custom Network to MyCrypto:
 
+With both nodes up and running, the blockchain can be added to MyCrypto for testing.
+
 * Open up MyCrypto, then click `Change Network` at the bottom left:
 
  ![change network](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/References/Images/change-network.png)
@@ -76,6 +78,8 @@ The start commands for the nodes are included in the `Keys, etc....txt` file and
 * Make sure that you scroll down to choose `Custom` in the "Network" column to reveal more options like `Chain ID`:
 
  ![custom network](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/References/Images/custom-network.png)
+
+* Type ETH in the Currency box.
 
 * The chain ID must match what you came up with earlier.
 
