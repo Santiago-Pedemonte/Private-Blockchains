@@ -11,10 +11,14 @@ A repository of private blockchains with different consensus algorithms and deve
 - [How to use](https://github.com/Santiago-Pedemonte/Private-Blockchains#how-to-use)
 - [Resources](https://github.com/Santiago-Pedemonte/Private-Blockchains#resources)
 
-## How a Blockchain Works
-
-![blockchain](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/Screenshots/infoBlockchain.jpg)
-[Source: Bitpanda](https://www.bitpanda.com/academy/en/lessons/how-does-a-blockchain-work/)
+<details><summary> How a Blockchain Works </summary>
+  
+   <img class="fit-picture"
+     src="https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/Screenshots/infoBlockchain.jpg"
+     alt="What is a Blockchain">
+  
+   [Source: Bitpanda](https://www.bitpanda.com/academy/en/lessons/how-does-a-blockchain-work/)
+</details>
 
 ## Features
 
@@ -56,8 +60,8 @@ Links to more detailed explanations of these in the [How to Use](https://github.
 ### Starting the nodes, ports, and connections:
 
 For particular commands and/or a more comprehensive, step-by-step guide regarding startup of nodes on Blockchains with a particular consensus, please refer to the individual `README.md` inside each network's folder:
-* [Proof of Work-How to use](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/Proof-of-Work%20Blockchain/README.md)
-* [Proof of Authority-How to use](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/Proof-of-Authority%20Blockchain/README.md)
+* [Proof of Work-How to use](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/Proof-of-Work%20Blockchain)
+* [Proof of Authority-How to use](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/Proof-of-Authority%20Blockchain)
 
 The start commands for the nodes are included in the `Keys, etc....txt` file and should be run from inside the `/Geth` folder.
 
