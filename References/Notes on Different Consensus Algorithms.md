@@ -1,13 +1,16 @@
 # Consensus Algorithms
 
+![consensusalgo](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/References/Images/consensusalgo.jpg)
+Source: [BitPrime](https://www.bitprime.co.nz/blog/consensus-algorithms/)
+
 ## Index:
-  * [What are Consensus Algorithms and why use them?]()
-    * [Byzantine Fault Tolerance]()
-    * [How Consensus Algorithms solve this problem]()
-  * [Types of Consensus Algorithms]()
-    * [Proof of Work]()
-    * [Proof of Stake]()
-    * [Proof of Authority]()
+  * [What are Consensus Algorithms and why use them?](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/References/Notes%20on%20Different%20Consensus%20Algorithms.md#what-are-consensus-algorithms-and-why-use-them)
+    * [Byzantine Fault Tolerance](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/References/Notes%20on%20Different%20Consensus%20Algorithms.md#byzantine-fault-tolerance)
+    * [How Consensus Algorithms solve this problem](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/References/Notes%20on%20Different%20Consensus%20Algorithms.md#how-consensus-algorithms-solve-this-problem)
+  * [Types of Consensus Algorithms](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/References/Notes%20on%20Different%20Consensus%20Algorithms.md#types-of-consensus-algorithms)
+    * [Proof of Work](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/References/Notes%20on%20Different%20Consensus%20Algorithms.md#proof-of-work)
+    * [Proof of Stake](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/References/Notes%20on%20Different%20Consensus%20Algorithms.md#proof-of-stake)
+    * [Proof of Authority](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/References/Notes%20on%20Different%20Consensus%20Algorithms.md#proof-of-authority)
 
 <details><summary> Different Consensus Algorithms </summary>
   
@@ -69,7 +72,7 @@ Finding the hash that satisfies the conditions set out by the protocol, miners g
 For major cryptocurrencies today, the conditions are incredibly challenging to satisfy. The higher the hash rate on the network, the more difficult it is to find a valid hash. This is done to ensure that blocks aren’t found too quickly.
 As one can imagine, trying to guess massive amounts of hashes can be costly in terms of electricity. The protocol will reward you with cryptocurrency if you find a valid hash.
 
-![proof-of-work]()
+![proof-of-work](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/References/Images/What-is-proof-of-work.jpg)
 Source: [Ledger](https://www.ledger.com/academy/blockchain/what-is-proof-of-work)
 
 ### Proof of Stake
@@ -87,7 +90,7 @@ Once PoS is rolled out on a network with a large amount of value, the system bec
 
 From: [Binance Academy](https://academy.binance.com/en/articles/what-is-a-blockchain-consensus-algorithm)
 
-![proof-of-stake]()
+![proof-of-stake](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/References/Images/What-is-proof-of-stake.jpg)
 Source: [Ledger](https://www.ledger.com/academy/blockchain/what-is-proof-of-stake)
 
 ### Proof of Authority
