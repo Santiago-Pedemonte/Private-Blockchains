@@ -1,8 +1,4 @@
 # Consensus Algorithms
-
-![consensusalgo](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/References/Images/consensusalgo.jpg)
-Source: [BitPrime](https://www.bitprime.co.nz/blog/consensus-algorithms/)
-
 ## Index:
   * [What are Consensus Algorithms and why use them?](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/References/Notes%20on%20Different%20Consensus%20Algorithms.md#what-are-consensus-algorithms-and-why-use-them)
     * [Byzantine Fault Tolerance](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/References/Notes%20on%20Different%20Consensus%20Algorithms.md#byzantine-fault-tolerance)
