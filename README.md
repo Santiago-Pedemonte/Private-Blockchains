@@ -1,6 +1,6 @@
 
 # Blockchain
-![introImage](https://github.com/Santiago-Pedemonte/Private-Blockchains/blob/main/Screenshots/blockchain-use-cases.jpg)
+![introImage](./Screenshots/blockchain-use-cases.jpg)
 
 A repository of private blockchains with different consensus algorithms and developed with the [Go Ethereum](https://geth.ethereum.org/) implementation.
 
